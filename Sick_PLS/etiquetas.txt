@@ -1,0 +1,4 @@
+04 45 AC A2 9E 33 80;Usted esta leyendo la etiqueta de color AMARILLO. 
+04 D2 51 A2 9E 33 80;Usted esta leyendo la etiqueta de color ROJO.
+04 C0 A1 A2 9E 33 80;Usted esta leyendo la etiqueta de color AZUL.
+04 E3 84 A2 9E 33 80;Usted esta leyendo la etiqueta de color VERDE.
